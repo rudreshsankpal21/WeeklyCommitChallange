@@ -1,0 +1,86 @@
+
+
+*#* Case Study: Student Attendance System
+
+
+### 1. Six phases of Waterfall Model applied to Student Attendance System
+
+-> 1) Requirement Analysis
+
+In this phase, all the requirements of the system are collected. The developers talk to the school staff to understand what they want from the system.
+
+For this system, the school wants to record daily attendance, generate monthly attendance reports and send notifications to parents when a student is absent.
+
+
+
+-> 2) System Design
+
+In this phase, the overall design of the system is prepared. This includes database design, system structure and data flow.
+
+For the attendance system, tables for students, attendance records and parents are designed. The way reports and notifications will work is also planned.
+
+
+
+-> 3) Implementation
+
+In this phase, actual coding of the system is done according to the design.
+
+For this system, code is written to mark daily attendance, generate monthly reports and send absence notifications to parents.
+
+
+
+-> 4) Testing
+
+In the testing phase, the system is checked to find errors and bugs. It ensures that the system works properly.
+
+Here, the attendance entries, monthly reports and notification feature are tested to make sure they work correctly.
+
+
+-> 5) Deployment
+
+In this phase, the system is installed and made available for real use.
+
+The attendance system is deployed in the school so teachers and administration staff can start using it.
+
+
+-> 6) Maintenance
+
+Maintenance is done after deployment. Any problems or small changes are handled in this phase.
+
+For this system, bugs in reports or notification issues are fixed if they occur.
+
+
+
+
+### 2. One example task in each phase
+
+| Phase                | Example Task                                   |
+| -------------------- | ---------------------------------------------- |
+| Requirement Analysis | Collecting attendance requirements from school |
+| System Design        | Designing student and attendance database      |
+| Implementation       | Coding attendance entry module                 |
+| Testing              | Testing monthly attendance report              |
+| Deployment           | Installing system in school                    |
+| Maintenance          | Fixing errors in notification system           |
+
+
+
+### 3. Advantages and disadvantages of Waterfall Model
+
+#*# Advantages:
+
+1. It is easy to understand and manage.
+2. It is suitable when requirements are clear and fixed.
+
+#*# Disadvantages:
+
+1. Changes are difficult after a phase is completed.
+2. Working software is available only at the end of the project.
+
+
+
+-> Conclusion
+
+The Waterfall Model is suitable for the Student Attendance System because the requirements are clear and do not change frequently.
+The step-by-step approach makes development systematic and organized.
+
